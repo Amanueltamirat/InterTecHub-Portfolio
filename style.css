@@ -1,0 +1,104 @@
+*{
+    box-sizing: border-box;
+    margin: 0;
+}
+body{
+    margin: 50px;
+    font-family: sans-serif;
+    background-color: rgb(18, 4, 30);
+    color: white;
+}
+a{
+    text-decoration: none;
+}
+/* Navbar */
+.navbar{
+    display: flex;
+    justify-content: space-between;
+    margin-bottom: 20px;
+}
+
+.navbar .logo{
+    font-size: 22px;
+}
+.navbar .logo .a{
+    color: blue;
+}
+.navbar .headers{
+    display: flex;
+    gap: 30px;
+
+}
+.navbar .headers a{
+ color: white;
+  font-size: 18px;
+}
+.navbar .headers a:hover{
+    color: rgb(141, 141, 141);
+}
+/* Introduction */
+
+.introduction{
+    display: flex;
+    margin-top: 50px;
+    margin-bottom: 20px;
+}
+.introduction h2{
+    font-size: 30px;
+    font-weight: 200;
+    margin-bottom: 20px;
+}
+.introduction p{
+    font-size: 18px;
+    line-height: 1.5;
+    color: rgb(127, 127, 127);
+    margin-bottom: 20px;
+}
+.socials a{
+    padding: 5px;
+}
+.socials a img{
+    width: 25px;
+    height: 25px;
+
+}
+/* Projects */
+.projects img{
+    width: 50%;
+    height: 200px;
+}
+.projects > div{
+     display: flex;
+}
+.projects > h2{
+    text-align: center;
+    padding: 20px;
+    color: lightgray;
+}
+.project{
+    display: flex;
+    gap: 20px;
+    margin: 10px;
+    margin-bottom: 40px;
+    background-color: rgb(28, 11, 43);
+    position: relative;
+    /* padding: 10px; */
+}
+.project h2{
+    color: lightgray;
+    margin-top: 10px;
+    padding: 10px;
+}
+.project p{
+    max-width: 400px;
+    color: rgb(169, 167, 167);
+    margin-bottom: 10px;
+    padding-right: 10px;
+}
+.project div button{
+    position: absolute;
+    bottom: 5px;
+    padding-bottom: 0;
+}
+
+   
