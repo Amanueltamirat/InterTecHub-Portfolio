@@ -1,4 +1,4 @@
-# Portfolio Website
+# Personal Portfolio Website
 Welcome to my personal portfolio website! This project showcases my skills, projects, and experiences as a web developer. It's built using HTML and CSS, providing a clean and responsive design.
 ## Features
 - Home: Introduces myself and provides a brief overview of my skills and interests.
