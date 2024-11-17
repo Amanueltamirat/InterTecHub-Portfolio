@@ -179,6 +179,9 @@ section{
     max-width: 50%;
     margin-top: 20px;
 }
+.contact div{
+    margin-left: 10%;
+}
 .contact div p{
     display: flex;
     justify-content: space-between;
