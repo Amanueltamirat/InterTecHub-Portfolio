@@ -10,9 +10,9 @@ Welcome to my personal portfolio website! This project showcases my skills, proj
 - HTML: Markup language used for structuring the website.
 - CSS: Stylesheet language used for designing and formatting the website.
 ## Getting Started
-1 Clone the repository: git clone [repository URL]
-2 Open the project folder in your preferred code editor.
-3 Open the index.html file in a web browser to view the website.
+1. Clone the repository: git clone [repository URL].
+2. Open the project folder in your preferred code editor.
+3. Open the index.html file in a web browser to view the website.
 ## Live demo
 ```
 https://amanueltamirat.github.io/InterTecHub-Portfolio
